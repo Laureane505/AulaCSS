@@ -1,0 +1,44 @@
+body
+{
+    margin: 0px;
+    padding: 0px;
+}
+h1{
+    background-color: red;
+    color: black;
+    text-align: center;
+    margin: 0px;
+    padding: 20px;
+}
+
+div
+{
+    border: 1px solid gray;
+    margin:10px;
+    padding: 10px;
+}
+
+h3
+{
+    color: red
+}
+
+.Azul
+{
+    color: blue;
+}
+
+.Negrito
+{
+    font-style:bold;
+}
+
+.Italico
+{
+    font-style: italic;
+}
+
+.sublinhado
+{
+    text-decoration: solid;
+}
