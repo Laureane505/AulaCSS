@@ -112,6 +112,42 @@ height: 300px;
 }
 
 .linha p
-{
+{ 
+    margin: 0;
+    padding: 0%;
 
+    background-color: #960000;
+    color:antiquewhite;
+    
+    width: 100px;
+    height: 50px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
+
+.exercicio7
+{
+    height: 100vh;
+}
+
+.menu
+{
+    display: flex;
+    height: 50px;
+
+    background-color: #960000;
+    color:rgb(70, 52, 29);
+    font-size: 25px;
+
+    justify-content: space-around; 
+}
+
+.opcoes
+{
+    display:flex ;
+}
+
+.
+    
