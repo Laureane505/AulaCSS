@@ -138,16 +138,31 @@ height: 300px;
     height: 50px;
 
     background-color: #960000;
-    color:rgb(70, 52, 29);
+    color:rgb(243, 241, 239);
     font-size: 25px;
 
     justify-content: space-around; 
 }
 
+.menu img
+{
+    height: 75px;
+}
 .opcoes
 {
-    display:flex ;
+    display:flex; 
+}
+.opcoes a
+{
+    color: white;
+    margin-right: 10px;
+    text-decoration: none;
 }
 
-.
-    
+.opcoes a:hover
+{
+    color: yellow;
+    text-decoration: underline;
+    text-decoration-color: cyan;
+
+}
